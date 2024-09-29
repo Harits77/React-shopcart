@@ -1,0 +1,11 @@
+[
+    { "id":12, "name":"hoodie", "price":"499","pic":"https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":13, "name":"hoodie", "price":"299", "pic":"https://images.pexels.com/photos/27385950/pexels-photo-27385950/free-photo-of-side-view-close-up-of-a-man-in-a-polo-shirt.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":14, "name":"hoodie", "price":"399","pic":"https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":15, "name":"hoodie", "price":"599","pic":"https://images.pexels.com/photos/27461474/pexels-photo-27461474/free-photo-of-young-brunette-in-polo-shirt.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":16, "name":"hoodie", "price":"299","pic":"https://images.pexels.com/photos/3029796/pexels-photo-3029796.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":17, "name":"hoodie", "price":"799","pic":"https://images.pexels.com/photos/2635315/pexels-photo-2635315.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":18, "name":"hoodie", "price":"199","pic":"https://images.pexels.com/photos/8422375/pexels-photo-8422375.jpeg?auto=compress&cs=tinysrgb&w=600"},
+    { "id":19, "name":"hoodie", "price":"899","pic":"https://images.pexels.com/photos/5061065/pexels-photo-5061065.jpeg?auto=compress&cs=tinysrgb&w=600"}
+
+]
