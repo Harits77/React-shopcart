@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 const Header = ({cart}) => {
   return (
     <div className='flex bg-slate-700 justify-between p-3 text-white fixed w-full top-0 left-0'>
-      <div className='text-xl '>Mens Wear</div>'>
       <div className='text-xl '>Mens Wear</div>
       <ul className='flex md:space-x-7'>
         <li className='text-xl pr-5'>
